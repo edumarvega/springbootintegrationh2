@@ -1,0 +1,5 @@
+com/tutorial/h2/springbootintegrationh2/service/PersonaService.class
+com/tutorial/h2/springbootintegrationh2/controller/PersonController.class
+com/tutorial/h2/springbootintegrationh2/repository/PersonRepository.class
+com/tutorial/h2/springbootintegrationh2/Springbootintegrationh2Application.class
+com/tutorial/h2/springbootintegrationh2/model/Person.class
